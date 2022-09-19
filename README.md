@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Aayush Juhukar
-- 👀 I’m interested in Coding and Arduino projects
+- 👀 I love to explore and learn new technologies
+- Languages: C(basic),java(basic),python,html,css,javascript,jquery,postgreSQL(basic)
+- Have done many projects using python
+- Currently working on web dev skills
 
 
 
