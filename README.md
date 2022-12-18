@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Aayush Juhukar
-- 👀 I love to explore and learn new technologies
-- Languages: python,html,css,javascript,jquery,postgreSQL(basic)
-- Have done many projects using python
-- Currently working on web dev skills
-
+- I love to explore and learn new technologies
+- Skill set: python,html,css,bootstrap,javascript,jquery,postgreSQL,mySQL,PHP,Mongodb
 
 
 <!---
