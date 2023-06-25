@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Juhukar
 - I love to explore and learn new technologies
-- Skill set: python,html,css,bootstrap,javascript,postgreSQL,mySQL,Mongodb,Django
+- Skill set: python,html,css,bootstrap,javascript,postgreSQL,mySQL,Mongodb,Django,flask
 
 
 <!---
